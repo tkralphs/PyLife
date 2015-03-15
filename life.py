@@ -16,7 +16,7 @@ __maintainer__ = 'Ted Ralphs'
 __email__      = 'ted@lehigh.edu'
 __url__        = 'http://coral.ie.lehigh.edu/~ted/files/ie172/code/life.py'
 __title__      = 'The Game of Life'
-
+__license__    = 'CC BY 3.0'
 
 from  sys import argv, exit
 import random, pygame
